@@ -1,0 +1,111 @@
+body{
+  font-family: "Montserrat";
+}
+#title{
+  background-color: #ffcc29;
+  color: #58391c;
+}
+#features{
+  padding: 5% 15%;
+  position: relative;
+  z-index: 1;
+}
+.vide{
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+#testimonials{
+  padding: 5% 15%;
+  text-align: center;
+  background-color:#ffcc29;
+  position: relative;
+  z-index: 1;
+}
+#press{
+  background-color:#ffcc29;
+  text-align:center;
+}
+#cta{
+text-align: center;
+  background-color:#ffcc29;
+  padding: 20px;
+}
+#footer{
+  background-color: #f8dc81;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2{
+  font-family: "Montserrat";
+  font-size: 2rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: "Montserrat";
+  font-size:2rem;
+  padding-top:1rem;
+}
+p{
+  color: #8f8f8f;
+  font-weight: lighter;
+  font-family: "Ubuntu";
+}
+
+.container-fluid{
+  padding: 4% 15%;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  font-weight: bolder;
+}
+.navbar{
+  padding:0 0 4rem;
+}
+.nav-link{
+  font-size: 1.25rem;
+  font-family: "Montserrat";
+}
+.down-but{
+  margin: 5% 5% 5% 0;
+}
+.feature-box{
+text-align: center;
+color: #e27802;
+padding: 5%;
+}
+.icons:hover{
+  color:#8f8f8f;
+}
+.players{
+  padding: 20px 0 20px 0;
+  margin:20px 15px 0 0;
+  width: 30%;
+}
+.press.logo{
+  margin-top: 20px;
+}
+.sport{
+  text-align: center;
+}
+.game-logo{
+  color: #000;
+  text-align: center;
+  margin: 10%;
+}
+.game-logo:hover{
+  color:#8f8f8f;
+}
+.game-col{
+  margin-bottom:10%%;
+  margin-bottom: 10%;
+}
